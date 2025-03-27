@@ -20,4 +20,7 @@ Contents
 
    usage
    api
+
+   xml_ajax.rst
+   xml_tutorials.rst
 Lumache hosts its documentation on Read the Docs.
