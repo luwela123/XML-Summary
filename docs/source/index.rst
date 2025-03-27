@@ -1,13 +1,20 @@
 Welcome to XML Summary
 ===================================
 
+Group Members
+-------------
+
 Espinosa, Luwela P.
+
+
 Eldo, Jelly D.
+
+
 Alvarado, Claire
+
+
 Caballero, Carlo
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
 
 .. note::
 
