@@ -1,4 +1,4 @@
-Welcome to XML Summary
+Welcome to XML Learning Summary
 ===================================
 
 Group Members
@@ -29,4 +29,4 @@ Contents
    xml_ajax.rst
    xml_tutorials.rst
    api
-Lumache hosts its documentation on Read the Docs.
+
