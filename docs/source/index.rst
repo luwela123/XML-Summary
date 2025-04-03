@@ -19,14 +19,15 @@ Caballero, Carlo
 
 Contents
 --------
-   xml AJAX
-   xml DOM
-   xml XpathTutorial
-   XSLT Tutorial
-   XQuery Tutorial
-   XML DTD
-   XSD Schema
-   XSD Data Types
-   Web Services
-   XML Examples
+  * xml AJAX
+  * xml DOM
+  * xml XpathTutorial
+  * XSLT Tutorial
+  * XQuery Tutorial
+  * XML DTD
+   *XSD Schema
+   *XSD Data Types
+   *Web Services
+   *XML Examples
 
+Lumache hosts its documentation on Read the Docs.----u
