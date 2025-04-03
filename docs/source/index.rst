@@ -17,17 +17,17 @@ Caballero, Carlo
 
 
 
-Contents
+Table of Contents
 --------
-  * xml_AJAX.rst
-  * xml_DOM.rst
-  * xml_XpathTutorial.rst
-  * XSLT_Tutorial.rst
-  * XQuery_Tutorial.rst
-  * XML_DTD.rst
-   *XS_Schema.rst
-   *XSD_DataTypes.rst
-   *Web_Services.rst
-   *XML_Examples.rst
+.. toctree::
+  * xml AJAX
+  * xml DOM
+  * xml XpathTutorial
+  * XSLT Tutorial
+  * XQuery Tutorial
+  * XML DTD
+   *XS Schema
+   *XSD DataTypes
+   *Web Services
+   *XML Examples
 
-Lumache hosts its documentation on Read the Docs.----u
