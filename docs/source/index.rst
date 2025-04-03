@@ -16,17 +16,17 @@ Alvarado, Claire
 Caballero, Carlo
 
 
-.. note::
-
-   This project is under active development.
 
 Contents
 --------
+   xml AJAX
+   xml DOM
+   xml XpathTutorial
+   XSLT Tutorial
+   XQuery Tutorial
+   XML DTD
+   XSD Schema
+   XSD Data Types
+   Web Services
+   XML Examples
 
-.. toctree::
-
-   usage
-   xml_ajax.rst
-   xml_tutorials.rst
-   api
-Lumache hosts its documentation on Read the Docs.
