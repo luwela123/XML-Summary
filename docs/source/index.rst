@@ -4,10 +4,10 @@ Welcome to XML Summary
 Group Members
 -------------
 
-*Espinosa, Luwela P.
-*Eldo, Jelly D.
-*Alvarado, Claire
-*Caballero, Carlo
+* Espinosa, Luwela P.
+* Eldo, Jelly D.
+* Alvarado, Claire
+* Caballero, Carlo
 
 Introduction to XML
 -------------------
