@@ -17,7 +17,7 @@ XML (Extensible Markup Language) is a simple, flexible way to structure and stor
 
    This project is under active development.
 
-Contents
+Table of Contents
 --------
 
 .. toctree::
