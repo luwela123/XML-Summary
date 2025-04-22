@@ -1,24 +1,12 @@
 Welcome to XML Summary
 ===================================
 
-Group Members
--------------
-
-Espinosa, Luwela P.
+Authors : Luwela P. Espinosa, Jelly D. Ortega, Claire Alvarado, Carlo Caballero
 
 
-Eldo, Jelly D.
 
 
-Alvarado, Claire
 
-
-Caballero, Carlo
-
-
-.. note::
-
-   This project is under active development.
 
 Contents
 --------
@@ -29,4 +17,5 @@ Contents
    xml_ajax.rst
    xml_tutorials.rst
    api
+
 Lumache hosts its documentation on Read the Docs.
